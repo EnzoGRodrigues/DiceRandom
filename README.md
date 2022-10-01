@@ -4,6 +4,7 @@ Projeto realizado para colocar em prática as seguintes skills:
 - Desenvolver tela através do main.Storyboard
 - Implementar ação randomica no botão
 - Implementar Auto Layout para as telas de LauchScreen e Main
+-----
 
 - LaunchScreen
 
